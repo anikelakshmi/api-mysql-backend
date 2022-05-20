@@ -30,3 +30,7 @@ npm install
 ```
 node server.js
 ```
+
+
+### Unit Tests
+Not added yet.Will add soon
