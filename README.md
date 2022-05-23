@@ -1,6 +1,9 @@
 # Node.js Rest APIs with Express & MySQL example
 
-MySQl Setup
+MySQl Setup 
+Download and  install MySQl if not having 
+Set root user
+
 
 CREATE TABLE studentdb.glossaries(
     id int  NOT NULL AUTO_INCREMENT, 
