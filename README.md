@@ -12,15 +12,14 @@ CREATE TABLE studentdb.glossaries(
 
 
 ## Project setup
+Download  api-mysql-backend
+cd api-mysql-backend
 
 #DB config
-naviaget to api-mysql-backend\app\config
+navigate to api-mysql-backend\app\config
 Update db.config with DB credentials
 
-Download  api-mysql-backend
 
-
-cd api-mysql-backend
 
 ```
 npm install
